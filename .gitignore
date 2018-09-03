@@ -25,3 +25,4 @@
 /public/apidocs/*
 /.idea/*
 *.keep
+.DS_Store
